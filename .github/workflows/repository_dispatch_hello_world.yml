@@ -1,4 +1,4 @@
-name: pull_request_hello_world
+name: repository_dispatch_hello_world
 
 on: [repository_dispatch]
 
